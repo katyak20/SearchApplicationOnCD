@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry exported="true" kind="lib" path="C:/download/PDFBox-0.7.3/external/FontBox-0.1.0-dev.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/download/PDFBox-0.7.3/lib/PDFBox-0.7.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/download/lucene-2.4.1/lucene-core-2.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/download/lucene-2.4.1/lucene-demos-2.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/download/org.eclipse.swt/swt.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/download/org.eclipse.swt/swt-debug.jar"/>
+	<classpathentry exported="true" kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.core.commands_3.5.0.I20090525-2000.jar"/>
+	<classpathentry exported="true" kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.core.jobs_3.4.100.v20090429-1800.jar"/>
+	<classpathentry exported="true" kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.core.runtime_3.5.0.v20090525.jar"/>
+	<classpathentry exported="true" kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.core.runtime.compatibility_3.2.0.v20090413.jar"/>
+	<classpathentry exported="true" kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.equinox.common_3.5.0.v20090520-1800.jar"/>
+	<classpathentry exported="true" kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.equinox.registry_3.4.100.v20090520-1800.jar"/>
+	<classpathentry exported="true" kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.jface_3.5.0.I20090525-2000.jar"/>
+	<classpathentry exported="true" kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.osgi_3.5.0.v20090520.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
